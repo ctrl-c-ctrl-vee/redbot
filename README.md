@@ -1,2 +1,2 @@
 # redbot
-Testing bots and refreshing some cs stuff
+Testing LLM bots and refreshing some cs stuff
